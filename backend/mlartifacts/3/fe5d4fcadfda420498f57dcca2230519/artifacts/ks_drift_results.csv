@@ -1,0 +1,14 @@
+feature,ks_stat,p_value,drifted
+age,0.8429,0.0,True
+sex,0.6557,0.0,True
+cp,0.286,0.0005,True
+trestbps,0.1003,0.6688,False
+chol,0.1062,0.5966,False
+fbs,0.0598,0.9895,False
+restecg,0.0269,1.0,False
+thalach,0.1235,0.4085,False
+exang,0.1439,0.2382,False
+oldpeak,0.1505,0.1958,False
+slope,0.092,0.764,False
+ca,0.079,0.8936,False
+thal,0.0952,0.728,False

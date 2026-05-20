@@ -1,0 +1,8 @@
+Modèle,Accuracy,F1-Score,AUC-ROC
+Logistic Regression,80.33,82.35,87.12
+AdaBoost,80.33,81.82,87.45
+KNN,78.69,81.16,83.77
+Neural Network,77.05,78.79,80.19
+SVM,77.05,79.41,84.2
+Random Forest,75.41,77.61,85.88
+XGBoost,73.77,75.76,85.5

@@ -1,0 +1,10 @@
+Run : rf_100trees_depthNone
+
+              precision    recall  f1-score   support
+
+        Sain       0.74      0.71      0.73        28
+      Malade       0.76      0.79      0.78        33
+
+    accuracy                           0.75        61
+   macro avg       0.75      0.75      0.75        61
+weighted avg       0.75      0.75      0.75        61

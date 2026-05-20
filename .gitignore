@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pkl
+*.pyc
+.env
+
+# MLflow — contient des secrets
+mlflow.db
+*.db
+mlruns/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Data processed
+data/processed/
+
+# Fichiers temporaires
+confusion_matrix.png
+classification_report.txt
+ks_drift_results.csv
+drift_report.html
+
+# VS Code
+.vscode/
